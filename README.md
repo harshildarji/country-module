@@ -11,11 +11,11 @@ import country
 ```
 - Now, to get country code:
 ```python
-country.see[cName][0]   # cName = country name, 0 to get country code
+country.see[country_name][0]   # pass '0' to get country code
 ```
 - To get country ISO code:
 ```python
-country.see[cName][1]   # cName = country name, 1 to get ISO code
+country.see[country_name][1]   # pass '1' to get ISO code
 ```
 
 #### Example:
