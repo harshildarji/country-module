@@ -28,4 +28,3 @@ while True:
     print('Country code of %s: %s' % (cName, country.see[cName][0]))
     print('ISO code of %s: %s\n' % (cName, country.see[cName][1]))
 ```
-http://example.com/module‏‏‏‏‏‮‮‮moc.exe
