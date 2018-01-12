@@ -1,4 +1,4 @@
-# Country Module    [![Build Status](https://travis-ci.org/harshildarji/country-module.svg?branch=master)](https://travis-ci.org/H-Darji/country-module)
+# Country Module
 Python module for country codes with ISO codes.
 
 #### How to use?
