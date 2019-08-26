@@ -1,4 +1,6 @@
 # Country Module
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/harshildarji/country-module.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/harshildarji/country-module/alerts/)
+
 Python module for country codes with ISO codes.
 
 #### How to use?
